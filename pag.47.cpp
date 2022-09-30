@@ -1,0 +1,1 @@
+printDouble(getValueFromUser());
