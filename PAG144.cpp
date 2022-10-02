@@ -1,0 +1,1 @@
+const double gravity2;

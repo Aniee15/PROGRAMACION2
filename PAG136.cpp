@@ -1,0 +1,1 @@
+int maxStudents{ numClassrooms * 30 };
