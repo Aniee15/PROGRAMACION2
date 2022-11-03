@@ -1,0 +1,2 @@
+z = (a, b); // evalua (a, b) primero para obtener el resultado de b, luego asigna ese valor a la variable z.
+z = a, b; // se valua como "(z = a), b", por lo que a z le asigna el valor de a, y b se evalua y descarta
