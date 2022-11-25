@@ -1,0 +1,1 @@
+Animal animal{ color_blue }; //error
