@@ -1,0 +1,18 @@
+switch (2)
+{
+	case 1: // no coincide
+		std::cout << 1 << '\n'; // se salta
+		break;
+	case 2: // coincide!
+		std::cout << 2 << '\n'; // execution begins here
+		break;
+	case 3: 
+		std::cout << 3 << '\n'; // esto tambien se ejecuta
+		break;
+	case 4: 
+		std::cout << 4 << '\n'; // esto tambien se ejecuta
+		break;
+	default: 
+		std::cout << 5 << '\n'; // esto tambien se ejecuta
+		break;
+}
