@@ -1,0 +1,1 @@
+int prime[5]{ 2, 3, 5, 7, 11 }; // use la lista de inicializadores para inicializar un arreglo fijo
